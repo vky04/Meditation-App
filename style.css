@@ -68,7 +68,7 @@
 
 .player-container svg {
   position: absolute;
-  
+
   height: 40%;
   top: 35%;
   left: 50%;
@@ -80,9 +80,9 @@
 }
 .time-display {
   color: white;
-  position: absolute;
-  font-size: 50px;
   bottom: 10%;
+  font-size: 50px;
+  position: absolute;
 }
 
 video {
