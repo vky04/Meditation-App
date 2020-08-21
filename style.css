@@ -81,6 +81,10 @@
 .player-container svg circle {
   transition: all 0.2s ease-in-out;
 }
+.replay{
+  height: 50px;
+  width: 50px;
+}
 .time-display {
   color: white;
   bottom: 10%;
