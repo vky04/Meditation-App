@@ -69,8 +69,8 @@
 .player-container svg {
   position: absolute;
   
-  height: 50%;
-  top: 50%;
+  height: 40%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(-90deg);
   pointer-events: none;
